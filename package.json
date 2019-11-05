@@ -1,0 +1,26 @@
+{
+  "name": "npm-lab-online-web-pt-021119",
+  "version": "1.0.0",
+  "description": "color clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "University1!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgrandi1/npm-lab-online-web-pt-021119.git"
+  },
+  "keywords": [
+    "Carlton"
+  ],
+  "author": "Carlton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgrandi1/npm-lab-online-web-pt-021119/issues"
+  },
+  "homepage": "https://github.com/cgrandi1/npm-lab-online-web-pt-021119#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}
